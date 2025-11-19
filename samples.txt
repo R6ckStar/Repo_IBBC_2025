@@ -1,0 +1,8 @@
+Casuarina	KNO3 	0_mM_KNO3
+Casuarina 	KNO3 	200_mM_KNO3
+Casuarina 	KNO3 	400_mM_KNO3
+Casuarina 	KNO3 	600_mM_KNO3
+Casuarina 	NOD 	0_mM_NOD
+Casuarina 	NOD 	200_mM_NOD
+Casuarina 	NOD 	400_mM_NOD
+Casuarina 	NOD 	600_mM_NOD
