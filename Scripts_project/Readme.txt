@@ -16,7 +16,7 @@ NOTE:
     Using a GNU screen is also optimal, allows the user to maitain control of the terminal whilst the software is running
 
 2º 
-Then use the Analyzer script to copy the necessary files (note it will only copy fastq.gz .fastq files).
+Then use the Copy_Analyzer.sh script to copy the necessary files (note it will only copy fastq.gz .fastq files).
 Capable of local copy and remote through ssh protocol
 This script will run an initial analysis with fastqc and multiqc.
 
