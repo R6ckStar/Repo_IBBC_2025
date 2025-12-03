@@ -9,8 +9,6 @@ Project/
  ├── Results/               # FastQC + MultiQC outputs
  └── Logs/   
 
-This sets up the correct folder structure for the pipeline with versioning history.
-
 
 NOTE:
     Before continuing:
